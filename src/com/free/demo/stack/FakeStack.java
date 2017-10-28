@@ -2,7 +2,7 @@ package com.free.demo.stack;
 
 /*
  *
- * fake stack using array
+ * 数组结构实现栈
  */
 public class FakeStack<T> {
 

@@ -2,7 +2,7 @@ package com.free.demo.stack;
 
 import com.free.demo.entity.Person;
 
-public class StackTest {
+public class FakeStackBeanTest {
 
     public static void main(String[] args) {
 
